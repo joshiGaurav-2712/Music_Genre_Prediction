@@ -13,6 +13,7 @@ Visualization: Decision tree structure can be visualized for a better understand
 ## Data
 
 The dataset used for this project is a CSV file (music.csv), containing the following attributes:
+
 Age: Age of the listener.
 
 Gender: 1 for male, 0 for female.
@@ -31,6 +32,7 @@ Matplotlib/Graphviz: For visualizing the decision tree.
 ## Model
 
 The model used is a Decision Tree Classifier. The following steps are followed:
+
 Data Preparation: Input features (age, gender) are separated from the target label (genre).
 
 Model Training: A decision tree is trained to predict the genre based on the input features.
