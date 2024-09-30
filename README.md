@@ -25,8 +25,11 @@ Genre: The target genre label, which is to be predicted.
 Languages: Python
 
 Libraries:
+
 Pandas: For data manipulation and analysis.
+
 Scikit-learn: For machine learning model implementation.
+
 Matplotlib/Graphviz: For visualizing the decision tree.
 
 ## Model
