@@ -30,5 +30,7 @@ Matplotlib/Graphviz: For visualizing the decision tree.
 
 The model used is a Decision Tree Classifier. The following steps are followed:
 Data Preparation: Input features (age, gender) are separated from the target label (genre).
+
 Model Training: A decision tree is trained to predict the genre based on the input features.
+
 Model Testing: Sample predictions are made for new user data, and the model's structure can be visualized.
