@@ -7,6 +7,7 @@ This project aims to predict the genre of a song using a Decision Tree Classifie
 ## Features
 
 Genre Prediction: Given the user's age and gender, the model predicts the music genre they are most likely to enjoy.
+
 Visualization: Decision tree structure can be visualized for a better understanding of the model's decisions.
 
 ## Data
@@ -19,6 +20,7 @@ Genre: The target genre label, which is to be predicted.
 ## Tech Stack
 
 Languages: Python
+
 Libraries:
 Pandas: For data manipulation and analysis.
 Scikit-learn: For machine learning model implementation.
