@@ -14,7 +14,9 @@ Visualization: Decision tree structure can be visualized for a better understand
 
 The dataset used for this project is a CSV file (music.csv), containing the following attributes:
 Age: Age of the listener.
+
 Gender: 1 for male, 0 for female.
+
 Genre: The target genre label, which is to be predicted.
 
 ## Tech Stack
